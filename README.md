@@ -3,6 +3,8 @@
 
 When I created this algorithm, I had terrain and cloud generation as its intended use, but the possibilities are endless. 
 
+A window class is provided with a sample use of this algorithm.
+
 Here's the algorithm:
 
 1. Start with a cube with equal height, width, and length. All of these should be of the form 2^n + 1.
