@@ -1,5 +1,5 @@
 # 3D Noise with OOC
-3 Dimensional noise created using a new algorithm called Octohedrons, Octohedrons, and Cubes 
+3 dimensional fractal noise created using a new algorithm called Octohedrons, Octohedrons, and Cubes 
 
 When I created this algorithm, I had terrain and cloud generation as its intended use, but the possibilities are endless. 
 
