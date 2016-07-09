@@ -5,7 +5,7 @@ When I created this algorithm, I had terrain and cloud generation as its intende
 
 A window class is provided with a sample use of this algorithm.
 
-Here's the algorithm:
+# The Algorithm
 
 1. Start with a cube with equal height, width, and length. All of these should be of the form 2^n + 1.
 
@@ -25,5 +25,7 @@ Here's the algorithm:
 
 This algorithm is based off the commonly known Diamonds and Squares Algorithm.
 
+# Why is it called Octohedrons, Octohedrons, and Cubes?
 
+Step i forms a cube and steps ii and iii form octohhedrons. Since this was based off the Diamodns and Squares algorith, I decided to name it similarly.
 
