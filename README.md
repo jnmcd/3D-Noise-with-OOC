@@ -27,5 +27,5 @@ This algorithm is based off the commonly known Diamonds and Squares Algorithm.
 
 # Why is it called Octohedrons, Octohedrons, and Cubes?
 
-Step i forms a cube and steps ii and iii form octohhedrons. Since this was based off the Diamodns and Squares algorith, I decided to name it similarly.
+Step i forms a cube and steps ii and iii form octohhedrons. Since this was based off the Diamodns and Squares algorithm, I decided to name it similarly.
 
